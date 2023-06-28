@@ -53,7 +53,7 @@ export const compsData = [
     id: 6,
     image: component06,
     title: 'Shades Generator Component',
-    tagline: 'A component to generate shades of a random color',
+    tagline: 'A component to generate shades of the color entered',
     link: 'https://revanthmbontha-09-shades-generator.netlify.app/',
   },
   {
