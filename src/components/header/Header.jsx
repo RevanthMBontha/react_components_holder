@@ -21,17 +21,14 @@ const Header = () => {
         <div className="nav__menu">
           <ul className="nav__list ">
             <li className="nav__item">
-              <a
-                href="https://www.revanthmbontha.github.io/"
-                className="nav__link"
-              >
+              <a href="https://revanthmbontha.github.io/" className="nav__link">
                 <i className="uil uil-estate nav__icon"></i>Home
               </a>
             </li>
 
             <li className="nav__item">
               <a
-                href="https://www.revanthmbontha.github.io"
+                href="https://revanthmbontha.github.io/#about"
                 className="nav__link"
               >
                 <i className="uil uil-user nav__icon"></i>About
@@ -40,7 +37,7 @@ const Header = () => {
 
             <li className="nav__item">
               <a
-                href="https://www.revanthmbontha.github.io"
+                href="https://revanthmbontha.github.io/#skills"
                 className="nav__link"
               >
                 <i className="uil uil-file-alt nav__icon"></i>Skills
@@ -49,7 +46,7 @@ const Header = () => {
 
             <li className="nav__item">
               <a
-                href="https://www.revanthmbontha.github.io"
+                href="https://revanthmbontha.github.io/#qualifications"
                 className="nav__link"
               >
                 <i className="uil uil-file-alt nav__icon"></i>Qualifications
@@ -58,7 +55,7 @@ const Header = () => {
 
             <li className="nav__item">
               <a
-                href="https://www.revanthmbontha.github.io"
+                href="https://revanthmbontha.github.io/#portfolio"
                 className="nav__link"
               >
                 <i className="uil uil-scenery nav__icon"></i>Portfolio
@@ -67,7 +64,7 @@ const Header = () => {
 
             <li className="nav__item">
               <a
-                href="https://www.revanthmbontha.github.io"
+                href="https://revanthmbontha.github.io/#contact"
                 className="nav__link"
               >
                 <i className="uil uil-message nav__icon"></i>Contact
